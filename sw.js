@@ -1,4 +1,4 @@
-const VERSION = '2.0.3'; // Change this version to force-update the cache
+const VERSION = '2.0.4'; // Change this version to force-update the cache
 const CACHE_NAME = `createmode-cache-${VERSION}`;
 
 // These are the files that make up the "app shell" and are required for the app to work offline.
